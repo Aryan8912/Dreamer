@@ -1,0 +1,14 @@
+cloudpickle
+dm-control
+gym
+imageio
+moviepy
+mujoco
+numpy
+pandas
+pickleshare
+piglet
+piglet-templates
+Pillow
+tensorboardX
+torch @ https://download.pytorch.org/whl/cu118
