@@ -15,7 +15,4 @@ Code structure is similar to original work by Danijar Hafner in Tensorflow
 
 All the hyperparameters are listed in main.py and are avaialble as command line args.
 
-#### For training
-`python dreamer.py --env 'walker-walk' --algo 'Dreamerv1' --exp 'default_hp' --train`
-#### For Evaluation
-`python dreamer.py --env 'walker-walk' --algo 'Dreamerv1' --exp 'eval' --evaluate --restore --checkpoint_path '<your_ckpt_path>'`
+
