@@ -1,4 +1,5 @@
 # Dreamer
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/c428c97a-3beb-4279-b626-ef3074940b14" />
 
 ## Code Structure
 Code structure is similar to original work by Danijar Hafner in Tensorflow
