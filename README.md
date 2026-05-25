@@ -5,6 +5,8 @@ A PyTorch implementation of Dreamerv1 and Dreamerv2 for continuous control tasks
 
 https://github.com/user-attachments/assets/f4e4c5da-5366-40ff-91cb-e0d02d4e916e
 
+<img width="1486" height="985" alt="image" src="https://github.com/user-attachments/assets/15eb1621-0ca8-4627-bd33-81d20d540cac" />
+
 
 ---
 
