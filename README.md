@@ -203,6 +203,12 @@ plt.ylabel('Reward')
 plt.title('Training Reward')
 plt.show()
 ```
+#### Training Progress
+<img width="1486" height="985" alt="image" src="https://github.com/user-attachments/assets/78e58d68-e3db-4de5-a379-93e1bf40048d" />
+
+#### Moving average smoothing Training Reward
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/96f3e0d4-258b-4043-b349-fa68ef3c7c88" />
+
 
 ---
 
